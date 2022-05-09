@@ -6,6 +6,7 @@
 &ensp;&ensp;&ensp;&ensp; ● SDL <br/>
 &ensp;&ensp;&ensp;&ensp; ● libCurl <br/>
 &ensp;&ensp;&ensp;&ensp; ● JSON <br/>
+&ensp;&ensp;&ensp;&ensp; ● Odoo erp system <br/>
 
 ---
 
