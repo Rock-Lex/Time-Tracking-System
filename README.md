@@ -51,7 +51,7 @@
 
 ## Author
 
-**Oleksandr Kamenskyi, 19 y.o, Berlin, Germany, HWR Student - Business Informatics**
+**Oleksandr Kamenskyi, 19 y.o, Berlin, Germany. Student - HWR Business Informatics**
 
 ---
 ---
