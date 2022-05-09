@@ -1,6 +1,6 @@
 # Zeiterfassung System
 
-### &ensp; <b> Technology  </b>
+### &ensp;&ensp; <b> Technology  </b>
 &ensp;&ensp;&ensp;&ensp; ● C <br/>
 &ensp;&ensp;&ensp;&ensp; ● Cmake <br/>
 &ensp;&ensp;&ensp;&ensp; ● SDL <br/>
@@ -39,7 +39,7 @@
  &ensp; - make
  &ensp; - ./Zeiterfassung
 
-### &ensp; <b> To Change  </b>
+### &ensp;&ensp; <b> To Change  </b>
 &ensp;&ensp;&ensp;&ensp; ● getScreenInfo.c       line 9 <br/>
 &ensp;&ensp;&ensp;&ensp; ● odoo.c                ERP Links <br/>
 &ensp;&ensp;&ensp;&ensp; ● render.h              images path<br/>
