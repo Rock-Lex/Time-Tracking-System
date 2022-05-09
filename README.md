@@ -4,7 +4,7 @@ Employee time tracking system.  <br/>
 
 The system scans the bar code or RFID key and then, with the help of Odoo API, logs in or logs out the employee to whom the key is assigned. <br/>
 
-Gives information on the display about the number of hours worked, date and time. <br/>
+The display shows the number of hours worked, date and time. <br/>
 
 The request is made with the help of libCurl and then parsed with the help of libjson-c-dev. The graphic interface was written with the help of the SDL library. <br/>
 
