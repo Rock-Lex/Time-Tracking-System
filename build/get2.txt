@@ -1,0 +1,1 @@
+<html><head><script>window.location = 'https://erp.hotsplots.de/web/dataset/call_kw/hr.employee/attendance_scan' + location.hash;</script></head></html>
