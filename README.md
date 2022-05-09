@@ -16,7 +16,7 @@
 ---
 ---
 
- ## &ensp; &ensp;  <b> How to install this project? </b>
+ ##  <b> How to install this project? </b>
    To install: <br/>
    - gcc/g++ <br/>
    - make <br/>
@@ -30,7 +30,7 @@
    - x11 <br/>
    
 
-## &ensp; &ensp;  <b> How to run this project? </b>
+## <b> How to run this project? </b>
  - git clone 
  - open project with Visual Studio
  - clear build folder with clear.sh
@@ -39,7 +39,7 @@
  &ensp; - make
  &ensp; - ./Zeiterfassung
 
-### &ensp;&ensp; <b> To Change  </b>
+### <b> To Change  </b>
 &ensp;&ensp;&ensp;&ensp; ● getScreenInfo.c       line 9 <br/>
 &ensp;&ensp;&ensp;&ensp; ● odoo.c                ERP Links <br/>
 &ensp;&ensp;&ensp;&ensp; ● render.h              images path<br/>
