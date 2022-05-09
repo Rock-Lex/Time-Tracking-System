@@ -59,5 +59,10 @@
 ## Screenshots
 
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/2.png)
+---
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/3.png)
+---
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/4.png)
+
+---
+---
