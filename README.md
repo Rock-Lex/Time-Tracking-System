@@ -20,7 +20,7 @@ The request is made with the help of libCurl and then parsed with the help of li
 ---
 
 ---
-## Main Screen
+## Photo
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/5.png)
 
 ---
