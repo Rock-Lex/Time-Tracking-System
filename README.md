@@ -21,7 +21,7 @@ The request is made with the help of libCurl and then parsed with the help of li
 
 ---
 ## Main Screen
-![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/1.png)
+![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/5.png)
 
 ---
 ---
@@ -67,7 +67,8 @@ The request is made with the help of libCurl and then parsed with the help of li
 
 
 ## Screenshots
-
+![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/1.png)
+---
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/2.png)
 ---
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/3.png)
