@@ -65,6 +65,9 @@ The request is made with the help of libCurl and then parsed with the help of li
 ---
 ---
 
+## Video
+[![Watch the video](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/5.png)](https://drive.google.com/file/d/14mkv7EsXKtIX3N_zkCl5o68Lqo0G88ji/view?usp=sharing)
+
 
 ## Screenshots
 ![Alt Text](https://github.com/Rock-Lex/Zeiterfassung/blob/master/data/media/1.png)
