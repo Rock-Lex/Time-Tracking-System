@@ -1,4 +1,4 @@
-# Zeiterfassung System
+# Time Tracking System
 
 Employee time tracking system.  <br/>
 
